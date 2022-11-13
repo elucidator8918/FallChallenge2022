@@ -1,3 +1,3 @@
 # FallChallenge2022
 
-:) all of my solutions of fall challenge
+Lab 2 Done y'all Hehehehhehehe!!
