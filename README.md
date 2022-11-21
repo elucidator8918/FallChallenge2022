@@ -1,3 +1,5 @@
 # FallChallenge2022
 
-:) all of my solutions of fall challenge
+This is woah :0
+
+Simulating cyclopropylidene, acetylene and carbon using QISKIT NATURE :D
